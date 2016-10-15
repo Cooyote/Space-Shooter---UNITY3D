@@ -6,4 +6,4 @@ The goal is to survive the waves of asteroids and destroy them to make points
 
 tutorial link : https://unity3d.com/pt/learn/tutorials/projects/space-shooter-tutorial
 
-## mikewcoyote.wixsite.com/mysite
+##More about me: https://mikewcoyote.wixsite.com/mysite
